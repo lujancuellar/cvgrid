@@ -12,7 +12,12 @@ h1 {
     padding-bottom: 15px;
 }
 
-h6 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+p {
+    background-color: blue;
+}
 
+#titulos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    background-color: red;
 }
